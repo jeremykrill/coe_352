@@ -1,7 +1,7 @@
 This program uses 1D Galerkin code to solve the heat transfer problem
 
 $$
-	u_t - u_{xx} = f(x,t), \quad (x,t) \in (0,1) \times (0,1)
+u_t - u_{xx} = f(x,t), \quad (x,t) \in (0,1) \times (0,1)
 $$	
 with initial and Dirichlet boundary conditions
 
