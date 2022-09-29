@@ -6,8 +6,8 @@ with initial and Dirichlet boundary conditions
 
 $$
 \begin{align}
-u(x,0) &= \sin{(\pi x)},\\
-u(0,t) &= u(1,t) = 0
+  &u(x,0) = \sin{(\pi x)},\\
+  &u(0,t) = u(1,t) = 0
 \end{align}
 $$
 
