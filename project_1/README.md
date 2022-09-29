@@ -1,0 +1,1 @@
+This program calculates the equilibrium displacements of a system of multiple springs/masses. Users input the number of springs/masses, the spring constants, the masses, and the boundary conditions.
